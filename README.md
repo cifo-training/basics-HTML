@@ -19,6 +19,20 @@ A partir del texto que se te proporciona en html2.html, debes crear una página 
 + Todas las siglas, como HTTP, W3C o MIT deben aparecer como texto destacado.
 + Los nombres de las instituciones o empresas, como Consorcio de la World Wide Web o Universidad de Oxford, deben aparecer como texto enfatizado.
 
+# HTML 3
 
+Corrige los errores que presenta el código de la página html3.html
 
+# HTML 4
 
+# HTML 5
+
+# HTML 6
+
+# HTML 7
+
+# HTML 8
+
+# HTML 9
+
+# HTML 10
