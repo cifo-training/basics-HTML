@@ -25,13 +25,52 @@ Corrige los errores que presenta el código de la página html3.html
 
 # HTML 4
 
+Corrige los errores que presenta el código base que se te proporciona en html4.html. También pueden existir ciertas cosas que no están mal, pero que se pueden hacer mejor.
+
 # HTML 5
 
+A partir del texto que se te proporciona en html5.html, debes crear una página web que tenga el mismo aspecto que la siguiente imagen:
+![html5](https://imgur.com/LAoFteF.png)
+
+Además, tienes que tener en cuenta los siguientes requisitos:
+
++ El título de la página debe ser Curriculum Vitae de Bruce Wayne.
++ El resto de la estructura de la página debes deducirlo a partir de la imagen proporcionada.
+
 # HTML 6
+A partir del texto que se te proporciona, debes crear una página web que tenga el mismo aspecto que la siguiente imagen:
+![enlaces](https://imgur.com/hZYqOfr.png)
+
+Además, tienes que tener en cuenta los siguientes requisitos:
+
+El título de la página debe ser Los tres pilares de la Web.
+Los enlaces que aparecen en la página deben tener los siguientes destinos:
++ Tim Berners-Lee → http://es.wikipedia.org/wiki/Tim_Berners-Lee
++ Web → http://es.wikipedia.org/wiki/World_Wide_Web
++ HTML → enlace intradocumental al epígrafe HTML
++ HTTP → enlace intradocumental al epígrafe HTTP
++ URL → enlace intradocumental al epígrafe URL
++ Fuente: HTML → http://es.wikipedia.org/wiki/HTML
++ Fuente: HTTP → http://es.wikipedia.org/wiki/Hypertext_Transfer_Protocol
++ Fuente: URL → http://es.wikipedia.org/wiki/Localizador_de_recursos_uniforme
+
+__Consejo__: para comprobar que los enlaces intradocumentales funcionan correctamente, aumenta el tamaño o zoom de la página con __"Control +"__
 
 # HTML 7
 
+A partir del texto que se te proporciona, debes crear una página web que tenga el mismo aspecto que la siguiente imagen:
+![listas-1](https://imgur.com/7EkwegE.png)
+
+Además, tienes que tener en cuenta los siguientes requisitos:
+
++ El título de la página debe ser Curriculum Vitae de Bruce Wayne.
++ El resto de la estructura de la página debes deducirlo a partir de la imagen proporcionada.
+
 # HTML 8
+Debes crear una página web que tenga el mismo aspecto que la siguiente imagen:
+![listas-2](https://imgur.com/KxGlvWr.png)
+
+Selecciona para cada lista el mejor tipo de lista.
 
 # HTML 9
 
