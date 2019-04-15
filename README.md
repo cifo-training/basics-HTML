@@ -11,7 +11,7 @@ Un encabezado de nivel 2 con el texto "Versiones de HTML" antes de dos nuevos p√
 
 El resultado debe ser el de la imagen siguiente:
 
-![html1](https://imgur.com/KxGlvWr.png)
+![html1](https://imgur.com/rEFTVhz.png)
 
 ### HTML 2
 
