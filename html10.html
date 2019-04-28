@@ -1,36 +1,80 @@
 <!DOCTYPE html>
 <html>
+
 <head>
-<title>Tabla compleja</title>
-<style>
-table, tr, th, td {
-  border: 1px solid black;
-}
-</style>
+  <meta charset="UTF-8">
+  <title>Tabla compleja</title>
+  <style>
+    table,
+    tr,
+    th,
+    td {
+      border: 1px solid black;
+    }
+
+    td[rowspan] {
+      font-weight: bold;
+      text-align: center;
+    }
+  </style>
 </head>
+
 <body>
-Categoría	Etiquetas
+  <table>
+    <tr>
+      <th>Categoría</th>
+      <th>Etiquetas</th>
+    </tr>
+    <tr>
+      <td rowspan="5">Formulario</td>
+      <td>form</td>
+    <tr>
+      <td>button</td>
+    </tr>
+    <tr>
+      <td>input</td>
+    </tr>
+    <tr>
+      <td>select</td>
+    </tr>
+    <tr>
+      <td>textarea</td>
+    </tr>
+    <tr>
+      <td rowspan="5">Tabla</td>
+      <td>table</td>
+    <tr>
+      <td>tr</td>
+    </tr>
+    <tr>
+      <td>th</td>
+    </tr>
+    <tr>
+      <td>td</td>
+    </tr>
+    <tr>
+      <td>caption</td>
+    </tr>
+    <td rowspan="6">Texto</td>
+    <td>b</td>
+    <tr>
+      <td>em</td>
+    </tr>
+    <tr>
+      <td>i</td>
+    </tr>
+    <tr>
+      <td>strong</td>
+    </tr>
+    <tr>
+      <td>sub</td>
+    </tr>
+    <tr>
+      <td>sup</td>
+    </tr>
 
-Formulario
-form
-button
-input
-select
-textarea
-
-Tabla
-table
-tr
-th
-td
-caption
-
-Texto
-b
-em
-i
-strong
-sub
-sup
+    </tr>
+  </table>
 </body>
+
 </html>
